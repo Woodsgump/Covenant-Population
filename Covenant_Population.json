@@ -3,12 +3,12 @@
   "xAxisLabel": "Year",
   "yAxisLabel": "Population",
   "data": [
-    {"year": 2525, "population": 1400000000},
-    {"year": 2530, "population": 2200000000},
-    {"year": 2535, "population": 3000000000},
-    {"year": 2540, "population": 4000000000},
-    {"year": 2545, "population": 5000000000},
-    {"year": 2550, "population": 7000000000},
-    {"year": 2552, "population": 9000000000}
+    {"year": 2525, "population": 9000000000},
+    {"year": 2530, "population": 1400000000},
+    {"year": 2535, "population": 7000000000},
+    {"year": 2540, "population": 5000000000},
+    {"year": 2545, "population": 4000000000},
+    {"year": 2550, "population": 3000000000},
+    {"year": 2552, "population": 0}
   ]
 }
