@@ -6,6 +6,7 @@
   "code": "POP",
   "name": "Covenant Population, Decimal",
   "urlize_name": "Covenant-Population-1-Decimal",
+  "display_url": "http://research.stlouisfed.org/fred2/data/GDP.txt",
   "description": "Units: Billions of Population per year within the Covenant",
   "updated_at": "2023-4-19",
   "frequency": "yearly",
